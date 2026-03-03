@@ -1,0 +1,14 @@
+.blue { color: blue; }
+.green { color: green; }
+.red { color: red; }
+.yellow { color: goldenrod; }
+.purple { color: purple; }
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}

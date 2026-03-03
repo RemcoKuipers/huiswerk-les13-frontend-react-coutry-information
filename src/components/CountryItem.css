@@ -1,0 +1,10 @@
+.country-item {
+    margin-bottom: 20px;
+}
+
+.africa { color: blue; }
+.americas { color: green; }
+.asia { color: red; }
+.europe { color: goldenrod; }
+.oceania { color: purple; }
+.default { color: black; }
